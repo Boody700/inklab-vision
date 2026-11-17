@@ -26,4 +26,4 @@
 
 ## A five-minute walkthrough
 
-Load a real example; switch classifiers; paint or erase a cell; shift one pixel; reset; open the mistakes gallery; click a confusion cell; inspect a confident mistake; export/reimport an experiment. Explain what is known from the benchmark and what remains unvalidated. Acknowledge AI assistance and be able to read the core inference and split code yourself.
+Load a real example; switch classifiers; paint or erase a cell; shift one pixel; reset; open the mistakes gallery; click a confusion cell; inspect a confident mistake; export/reimport an experiment. Explain what is known from the benchmark and what remains unvalidated. Be able to read the core inference and split code yourself.

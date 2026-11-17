@@ -89,9 +89,9 @@ The [shareable evaluation figure](reports/evaluation.png) combines model compari
 
 Dataset: Alpaydin, E. & Kaynak, C. (1998). *Optical Recognition of Handwritten Digits*. UCI Machine Learning Repository. [DOI 10.24432/C50P49](https://doi.org/10.24432/C50P49), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The exported models and perturbed examples are adaptations. Original implementation is MIT licensed; see [third-party notices](THIRD_PARTY_NOTICES.md). No endorsement is implied.
 
-AI assistance was used in implementation and documentation. Run the project, read the inference and split code, and be prepared to explain its failures in your own words.
+Run the project, read the inference and split code, and be prepared to explain its failures in your own words.
 
 
 ## Development
 
-Independent, AI-assisted educational portfolio project. The source, evaluation design and limitations are documented so the work can be inspected and reproduced. GitHub Actions runs the committed browser checks. Python pipeline reproduction uses the commands and data sources described above.
+Independent educational portfolio project. The source, evaluation design and limitations are documented so the work can be inspected and reproduced. GitHub Actions runs the committed browser checks. Python pipeline reproduction uses the commands and data sources described above.
